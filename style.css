@@ -482,7 +482,9 @@ button {
     .j {
         width: 100%;
     }
-
+    input{
+        width:90%;
+    }
     .a,
     .b,
     .c,
