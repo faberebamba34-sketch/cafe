@@ -319,7 +319,10 @@ button {
     nav {
         text-align: center;
     }
-
+    hr{
+        margin-left:30px; ;
+        margin-right:  30px; ;
+    }
     .h,
     .j {
         width: 100%;
@@ -520,7 +523,7 @@ button {
     }
 
     nav {
-        margin: 5px;
+        margin: 5.5px;
         
     }
 }
