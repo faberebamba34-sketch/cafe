@@ -537,7 +537,7 @@ button {
         height: 55px;
     }
     .a,.b,.c,.d{
-        width: 260px;
+        width: 261px;
         margin-left: 20px;
     }
 }
@@ -553,6 +553,7 @@ button {
         height: 45px;
     }
     .a,.b,.c,.d{
+        width: 270;
         margin-left: 20px;
     }
 }
