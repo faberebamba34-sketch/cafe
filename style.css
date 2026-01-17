@@ -54,11 +54,12 @@ body {
 }
 
 img {
-    width: 270px;
+    width: 350px;
     height: 300px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
+
 
 .img,
 h3,
@@ -86,6 +87,8 @@ h2 {
 .b,
 .c,
 .d {
+    padding: 20px;
+    width: 340px;
     border-radius: 10px;
     background-color: white;
 }
@@ -125,7 +128,9 @@ h3 {
 .h,
 .j {
     display: inline-block;
-    margin: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 20px;
 }
 
 .h {
@@ -481,9 +486,6 @@ button {
         text-align: center;
     }
 
-    .h,
-    .j {
-        width: 100%;
     }
     input{
         width:90%;
@@ -499,7 +501,11 @@ button {
     img {
         width: 100%;
     }
-
+    .a,.b,.c,.d{
+        width: 290px;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
     button {
         float: right;
     }
