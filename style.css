@@ -538,7 +538,7 @@ button {
     }
     .a,.b,.c,.d{
         width: 260px;
-        margin-left: 50px;
+        margin-left: 30px;
     }
 }
 @media screen and (max-width:355px){
@@ -553,6 +553,6 @@ button {
         height: 45px;
     }
     .a,.b,.c,.d{
-        margin-left: 40px;
+        margin-left: 20px;
     }
 }
